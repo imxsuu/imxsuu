@@ -11,3 +11,6 @@
 <img src="https://img.shields.io/badge/FluentBit-49BDA5?style=flat-square&logo=FluentBit&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Habor-60B932?style=flat-square&logo=Harbor&logoColor=white"/></a>&nbsp
 </p>
+
+<img src="https://raw.githubusercontent.com/imxsuu/github-stats-transparent/6667d757322ab22ca69234b0c11defcf87ec50cb/generated/overview.svg"/>
+<img src="https://raw.githubusercontent.com/imxsuu/github-stats-transparent/6667d757322ab22ca69234b0c11defcf87ec50cb/generated/languages.svg"/>
